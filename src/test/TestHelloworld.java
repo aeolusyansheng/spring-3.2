@@ -23,7 +23,7 @@ public class TestHelloworld {
         String message1 = context.getMessage("lang", null, Locale.ENGLISH);
         String message2 = context.getMessage("lang", null, Locale.CHINA);
         String message3 = context.getMessage("lang2222", null, Locale.JAPAN);
-        String message4 = context.getMessage("lang1", null, Locale.getDefault());
+        String message4 = context.getMessage("langyansheng", null, Locale.getDefault());
         logger.debug(message1);
         logger.debug(message2);
         logger.debug(message3);
