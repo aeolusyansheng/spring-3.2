@@ -11,9 +11,7 @@ public abstract class BeansException extends NestedRuntimeException {
 	//TODO
     //TODO
 	//TODO
-<<<<<<< HEAD
 	//fourth
-=======
-	//third
->>>>>>> branch 'aaa' of git@github.com:aeolusyansheng/spring-3.2.git
+	//thirdsss
+	//five
 }
