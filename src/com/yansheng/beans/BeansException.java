@@ -16,5 +16,4 @@ public abstract class BeansException extends NestedRuntimeException {
 	//five11111
 	//six2222
 	//seven
-	//sasas
 }
